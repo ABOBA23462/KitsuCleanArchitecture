@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kitsu</string>
+    <string name="anime">anime</string>
+    <string name="shadow">shadow</string>
+    <string name="anime_name">Anime name</string>
+    <string name="app_name2">Kitsu</string>
+    <string name="data">data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">password</string>
+    <string name="gmail">Gmail</string>
+    <string name="kitsu">Добро пожаловать в Kitsu</string>
+    <string name="sign_in">Sign in</string>
+</resources>
